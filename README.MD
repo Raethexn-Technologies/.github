@@ -27,6 +27,4 @@ Are you ready to be part of something revolutionary? Raethexn Technologies is al
 
 ---
 
-![Raethexn Logo](https://via.placeholder.com/150 "Raethexn Technologies Logo")
-
 *Raethexn Technologies - Bridging Dreams and Reality Through Innovation.*
