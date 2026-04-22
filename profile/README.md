@@ -1,25 +1,83 @@
 # Raethexn Technologies
 
-Raethexn Technologies is an independent Canadian research and engineering studio focused on open-source software, applied AI, and digital infrastructure.
+Raethexn Technologies is an independent Canadian AI systems studio focused on building and exploring the next layer of software infrastructure.
 
-We build experimental systems that explore questions around trust, ownership, privacy, and the future of software. Instead of treating software only as a product, we treat it as a way to test ideas in the open and make technical questions concrete.
+Our work sits at the intersection of:
+
+* AI systems
+* memory and identity
+* natural language interfaces
+* cloud-native infrastructure
+
+We build real systems to test ideas in practice — not just in theory.
+
+---
 
 ## Mission
 
-Our mission is to build and publish software that pushes on important questions in computing, especially around AI, memory, identity, and open infrastructure.
+Our mission is to design and publish systems that push on foundational questions in computing:
 
-We care about working prototypes, clear technical thinking, and open-source projects that others can inspect, use, and build on.
+* Who owns AI memory?
+* What does identity look like in AI-native systems?
+* How does software change when language becomes the interface?
+
+We focus on **working prototypes, production-minded architecture, and open-source systems** that others can inspect, use, and build on.
+
+---
 
 ## Current Work
 
-Our first public project is **OpenMemoryAgent**, a research prototype exploring what it would look like for AI memory to belong to the user instead of the platform.
+### OpenMemory
 
-The project combines a conventional web application stack with browser-held identity, signed writes, and an external memory layer to investigate how user-sovereign AI systems might actually work in practice.
+OpenMemory is a core research and engineering project exploring a different model for AI memory:
+
+> **Memory as user-owned infrastructure, not a platform feature.**
+
+The system experiments with:
+
+* browser-held identity and signed memory writes
+* server-independent memory layers
+* persistent, evolving knowledge graphs
+
+It is designed to move beyond application-bound context toward **portable, user-controlled AI memory**.
+
+---
+
+## Approach
+
+Raethexn Technologies operates with a simple principle:
+
+> Build real systems to answer technical questions.
+
+Rather than publishing ideas in isolation, we:
+
+* implement them as working software
+* expose tradeoffs through real architecture
+* iterate based on practical constraints
+
+This approach bridges the gap between **research, engineering, and deployment**.
+
+---
 
 ## Open Source
 
-Raethexn Technologies is committed to building in public. We want our projects to be useful not only as software, but also as research artifacts that show the real tradeoffs behind ambitious technical ideas.
+We build in public.
 
-## Follow Along
+Our projects are intended to function as both:
 
-This is the beginning of our open-source work. More projects, experiments, and technical research will be published over time.
+* usable systems
+* and transparent technical artifacts
+
+The goal is not just to ship software, but to make the underlying ideas inspectable and reproducible.
+
+---
+
+## Looking Ahead
+
+Raethexn Technologies is an evolving body of work.
+
+Future projects will continue to explore:
+
+* AI-native system design
+* memory and identity layers
+* conversational interfaces as infrastructure
